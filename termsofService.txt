@@ -1,0 +1,32 @@
+# Terms of Service & Privacy Policy
+
+**Last updated: June 23, 2026**
+
+## Terms of Service
+
+This tool is a private, personal desktop application used solely by its developer. 
+It is not available to the public and has no end users.
+
+The application automates video content creation and publishing to social media platforms 
+including TikTok and YouTube using official APIs.
+
+By using this tool you agree that:
+- You are the sole operator and user of this application
+- You will comply with TikTok's Terms of Service and Community Guidelines
+- You will only publish content to accounts you own and control
+- You will not use this tool to spam, mislead, or violate any platform policies
+
+## Privacy Policy
+
+This application is a private personal tool with no public users.
+
+**Data collected:** None. No user data is collected, stored, or shared with any third party.
+
+**Authentication tokens:** OAuth tokens for TikTok and YouTube are stored locally on your 
+own machine in the project directory. They are never transmitted to any external server 
+other than the official TikTok and YouTube APIs.
+
+**Video content:** Videos are generated locally and uploaded directly to TikTok and YouTube 
+via their official APIs. No content is stored or processed by any third party.
+
+**Contact:** Danbparker62@gmail.com
